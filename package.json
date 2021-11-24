@@ -1,0 +1,27 @@
+{
+  "name": "bcf-utils",
+  "version": "1.0.0-alpha.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^27.0.2",
+    "babel-preset-env": "^1.7.0",
+    "jasmine-core": "^3.7.1",
+    "jest": "^27.0.3",
+    "jszip": "^3.6.0",
+    "karma": "^6.3.3",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^4.0.1"
+  }
+}
